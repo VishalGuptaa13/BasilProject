@@ -1,0 +1,56 @@
+.settings {
+  position: relative;
+  line-height: 34px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 47px;
+}
+.plusIcon {
+  height: 14px;
+  width: 14px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon,
+.rightIcon {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon {
+  height: 14px;
+  display: flex;
+}
+.rightIcon {
+  display: none;
+}
+.buttonUnstyled {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-12xs) var(--padding-lg);
+  gap: var(--gap-3xs);
+}
+.button,
+.buttonUnstyled {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-royalblue);
+}
+.button,
+.mainButton,
+.memoryAllocation {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.memoryAllocation {
+  align-items: center;
+  padding: var(--padding-smi) var(--padding-3xs);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-dm-sans);
+}

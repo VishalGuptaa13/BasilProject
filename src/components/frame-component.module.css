@@ -1,0 +1,33 @@
+.frameIcon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.uiElementsAnd {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 22px;
+}
+.frameParent,
+.frameWrapper {
+  height: 22px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frameWrapper {
+  align-self: stretch;
+  height: 94px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-3xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-dm-sans);
+}
