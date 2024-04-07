@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.02a38932.css",
-    "main.js": "/static/js/main.aa8cfb34.js",
-    "static/js/453.88651120.chunk.js": "/static/js/453.88651120.chunk.js",
-    "index.html": "/index.html",
-    "main.02a38932.css.map": "/static/css/main.02a38932.css.map",
-    "main.aa8cfb34.js.map": "/static/js/main.aa8cfb34.js.map",
-    "453.88651120.chunk.js.map": "/static/js/453.88651120.chunk.js.map"
+    "main.css": "/BasilProject/static/css/main.02a38932.css",
+    "main.js": "/BasilProject/static/js/main.adc8c775.js",
+    "static/js/453.88651120.chunk.js": "/BasilProject/static/js/453.88651120.chunk.js",
+    "index.html": "/BasilProject/index.html",
+    "main.02a38932.css.map": "/BasilProject/static/css/main.02a38932.css.map",
+    "main.adc8c775.js.map": "/BasilProject/static/js/main.adc8c775.js.map",
+    "453.88651120.chunk.js.map": "/BasilProject/static/js/453.88651120.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02a38932.css",
-    "static/js/main.aa8cfb34.js"
+    "static/js/main.adc8c775.js"
   ]
 }
